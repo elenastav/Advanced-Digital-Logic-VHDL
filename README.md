@@ -1,1 +1,1 @@
-# Advanced-Digital-Logic-VHDL
+# Projects developed in VHDL using Xilinx ISE.
